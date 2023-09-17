@@ -2,4 +2,5 @@
 
 test_hw
 
-![image](https://github.com/DaryaKunay/HW/assets/145052008/9aba886d-bd93-4423-8106-b7e0d23eb047)
+![image](https://github.com/DaryaKunay/HW/assets/145052008/770f4ba9-e4a1-4ca5-a414-1143c120ccb2)
+
